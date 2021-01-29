@@ -16,7 +16,7 @@
 
 
 ## Installation
-you must install the following packages for the ReadMe to be generated
+you must install the following packages for the Team log to be generated
 
   npm i
    
@@ -40,8 +40,11 @@ Please go through the following steps to run this application
 
 ## Code Snippets 
 
-This snippet writes the ReadMe file and is located in the index.js file.
+This snippet writes the html file and is located in the app.js file.
 <img src="/images/writefile.png" alt="writefile function"/>
+
+link to Demo video
+[Link to Video](https://drive.google.com/file/d/1NOasMcielJbcKqp3AGFiy4ojaut6-9GS/view)
 
  ## License
     [MIT](https://choosealicense.com/licenses/mit/)
