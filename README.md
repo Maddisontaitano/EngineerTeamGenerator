@@ -43,7 +43,7 @@ Please go through the following steps to run this application
 This snippet writes the html file and is located in the app.js file.
 <img src="/images/writefile.png" alt="writefile function"/>
 
-link to Demo video
+link to Demo video <br>
 [Link to Video](https://drive.google.com/file/d/1NOasMcielJbcKqp3AGFiy4ojaut6-9GS/view)
 
  ## License
